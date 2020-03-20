@@ -1,3 +1,4 @@
+[![Board Status](https://justis.visualstudio.com/fa6b463c-819d-4235-ab25-a33f3659b1ff/086c5fd5-1393-4800-9d1b-bcd2318d186c/_apis/work/boardbadge/b50c66e4-4c14-42e2-bb93-7a770dd31250)](https://justis.visualstudio.com/fa6b463c-819d-4235-ab25-a33f3659b1ff/_boards/board/t/086c5fd5-1393-4800-9d1b-bcd2318d186c/Microsoft.RequirementCategory)
 <!-- Copyright 2017 Yahoo Holdings. Licensed under the terms of the Apache 2.0 license. See LICENSE in the project root. -->
 # Vespa sample applications
 
